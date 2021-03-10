@@ -53,6 +53,7 @@ spring.datasource.driver-class-name=org.postgresql.Driver
 ```
 ## Funcionalidade do projeto
 Para primeira utilização e necessario inserir o script que se encontra em Resources/bancodados.sql no query tool do banco de dados. Após a inserção do script já terá um usuário no sistema para adicionar um produto no carrinho, para isso utilize o endpoint http://localhost:8081/api/Cart/1
+## Gerando o Jar/War: Entra na pasta do projeto pelo cmd e utiliza o comando mvn package.
 ## OBSERVAÇÂO: Caso o sistema não encontre o usuário ele não retornará 500 porque o erro de NullPointException é tratado gerando um 404 objetoNaoEncontradoException.
 
 
