@@ -33,6 +33,7 @@ rodando o mais rápido possível e sem complicação.
 ● Spring-data-JPA - Tem por objetivo facilitar nosso trabalho com persistência de dados de uma
 forma geral, e com ele podemos usar hibernate, eclipse-link entre outros.
 ● Spring-devtools - A Spring Developer Tools usa cache para melhorar a performance.
+● Spring-starter-test - Realizar alguns testes.
 ● POSTGRESQL - Banco de dados utilizado na aplicação, escolhi pela escalabilidade e flexibilidade
 
 
